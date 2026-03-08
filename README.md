@@ -1,0 +1,1 @@
+C-based cooperative multitasking scheduler built using ucontext for user-level thread management. The project implements task creation, context switching, and scheduling across multiple lightweight tasks. Demonstrated through a terminal-based worm game using ncurses, where independent tasks handle rendering, input, and timed events concurrently.
