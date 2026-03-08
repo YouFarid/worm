@@ -1,0 +1,14 @@
+---
+:id: 358392200
+:submitters:
+- :name: Kostiantyn P. Tsymbal
+  :email: tsymbalk@grinnell.edu
+- :name: Youssef M. Khalil
+  :email: faridyou@grinnell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-10-15 17:38:57.608152000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-10-15 10:38:57.608152000 Z
+:status: processed
+:score: 100.0
